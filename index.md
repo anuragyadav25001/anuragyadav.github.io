@@ -65,16 +65,16 @@ Mechanical Engineering is perhaps the most diverse and versatile of the engineer
 ![Image](https://www.gamengadgets.com/wp-content/uploads/2019/02/games_PC.jpg)
 
 ## Is Programming Hard ?🖥⌨🖱☢
-### According to me ,computer programming languages are not easy to master, but that doesn’t mean they are impossible to learn, either. In a lot of ways, coding is like cooking—both require you to follow a set of instructions with no room for error. It also helps if you understand that the most common state for a programmer, especially a new programmer, is a sense of ineptitude. There is almost a limitless amount of stuff to learn, so programmers constantly need to learn new tools, languages and technologies.
+According to me ,computer programming languages are not easy to master, but that doesn’t mean they are impossible to learn, either. In a lot of ways, coding is like cooking—both require you to follow a set of instructions with no room for error. It also helps if you understand that the most common state for a programmer, especially a new programmer, is a sense of ineptitude. There is almost a limitless amount of stuff to learn, so programmers constantly need to learn new tools, languages and technologies.
 ![Image](https://cdn.dribbble.com/users/2040619/screenshots/4884525/__________-4___________________1.jpg)
 
-### Learning a computer programming language is like learning anything else—it will be easier for some people, and more difficult for others. Whether or not programming is hard for you depends as much on your personality as your computer skills. According to Brian Feldman, robotics specialist and founder of Feldman Consulting Enterprises, there are some key personality traits programmers need to be successful, including:
+ Learning a computer programming language is like learning anything else—it will be easier for some people, and more difficult for others. Whether or not programming is hard for you depends as much on your personality as your computer skills. According to Brian Feldman, robotics specialist and founder of Feldman Consulting Enterprises, there are some key personality traits programmers need to be successful, including:
 
-### 1. Nearly unlimited persistence to continue trying to troubleshoot, fix and develop
-### 2.Excellent short- and long-term memory
-### 3.Understanding of how things interrelate
-### 4.Excellent attention to detail
-### If you don’t have these personality traits, you can still learn how to code but your experience of learning a new programming language may be more difficult than it is for someone who has the personality traits of a programmer.
+ 1. Nearly unlimited persistence to continue trying to troubleshoot, fix and develop
+ 2.Excellent short- and long-term memory
+ 3.Understanding of how things interrelate
+ 4.Excellent attention to detail
+ If you don’t have these personality traits, you can still learn how to code but your experience of learning a new programming language may be more difficult than it is for someone who has the personality traits of a programmer.
 
 
 ### Support or Contact
