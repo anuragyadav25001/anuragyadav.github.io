@@ -62,12 +62,12 @@ According to me ,computer programming languages are not easy to master, but that
  
 If you don’t have these personality traits, you can still learn how to code but your experience of learning a new programming language may be more difficult than it is for someone who has the personality traits of a programmer.
 
-## My Personality :-
+## My Personality :-😄🤩
 ### I am a very calm, gentle, courteous, creative, hard-working, polite, friendly, reliable and sensitive type of person.
 
-## Support or Contact
-You can connect with me on :-
+## Support or Contact:-📲💻📡
+### You can connect with me on :-
 
-### [Github.com](https://github.com/anuragyadav25001/) 
+### [Github.com](https://github.com/anuragyadav25001/) 🖥💻
 
-### [Mail](mailto:anuragyadav2657@gmail.com?subject=[GitHub])
+### [Mail](mailto:anuragyadav2657@gmail.com?subject=[GitHub])📲📳📱🖥⌨
