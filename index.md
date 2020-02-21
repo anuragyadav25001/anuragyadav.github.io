@@ -71,9 +71,13 @@ According to me ,computer programming languages are not easy to master, but that
  Learning a computer programming language is like learning anything else—it will be easier for some people, and more difficult for others. Whether or not programming is hard for you depends as much on your personality as your computer skills. According to Brian Feldman, robotics specialist and founder of Feldman Consulting Enterprises, there are some key personality traits programmers need to be successful, including:
 
  1. Nearly unlimited persistence to continue trying to troubleshoot, fix and develop
+ 
  2.Excellent short- and long-term memory
+ 
  3.Understanding of how things interrelate
+ 
  4.Excellent attention to detail
+ 
  If you don’t have these personality traits, you can still learn how to code but your experience of learning a new programming language may be more difficult than it is for someone who has the personality traits of a programmer.
 
 
