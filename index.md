@@ -40,25 +40,31 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Mechanical Engineering is perhaps the most diverse and versatile of the engineering disciplines. In addition to physics and mathematics, it encompasses key elements of aerospace, electrical, civil, chemical and even materials science and bio-engineering. Mechanical engineering touches virtually every aspect of modern life, from mobile phones and biomedical devices, to aircrafts and power plants. Not only engineering, mechanical engineers deal with economic issues, from the cost of a single component, to the economic impact of a manufacturing plant. Besides this, mechanical engineers can also be found in sales, engineering management, and corporate management. Versatility is another unique advantage in a world that is undergoing constant economic, political, industrial, and social change. Mechanical engineers are educated and positioned, not only to adapt, but to define and direct change.
 
-## Hobbies And Interests:-
+## Hobbies And Interests:-🎨🏏🎖🕹🎤
 ![Image](https://leverageedu.com/blog/wp-content/uploads/2018/02/Hobbies-743x500.jpg).
 * ### My hobbies are :-
-## 1.![Image](https://cnet2.cbsistatic.com/img/8ZE1Dqr7xrkMQBCjL2DBppR0v8U=/1092x0/2019/11/21/56757cef-e8d9-4257-a53c-10f736eb61f1/gettyimages-1130490453.jpg) 
-### Reading Books
-## 2.![Image](https://static.toiimg.com/thumb/msid-71456846,width-1070,height-580,imgsize-1614533,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg) 
-### Playing Cricket
-## 3.![Image](https://brexitbritsabroad.com/wp-content/uploads/2018/12/israel-palacio-459693-unsplash-1024x683.jpg) 
-### Singing
-## 4.![Image](https://www.abc.net.au/cm/rimage/11097260-16x9-xlarge.jpg?v=3)
-### Travelling
-## 5.![Image](https://i.pinimg.com/originals/54/9a/ae/549aae713a6dbd008896f16255da325d.jpg)
-### Listening to Music
-## 6.![Image](https://i1.wp.com/www.orseep.com/blog/wp-content/uploads/2015/09/surfing-internet.jpg?fit=1280%2C850)
-### Surfing The Internet
-## 6.![Image](https://www.gamengadgets.com/wp-content/uploads/2019/02/games_PC.jpg)
-### Playing PC Games
+## 1.Reading Books📚
+![Image](https://cnet2.cbsistatic.com/img/8ZE1Dqr7xrkMQBCjL2DBppR0v8U=/1092x0/2019/11/21/56757cef-e8d9-4257-a53c-10f736eb61f1/gettyimages-1130490453.jpg) 
 
-## Is Programming Hard ?
+## 2. Playing Cricket🏏
+![Image](https://static.toiimg.com/thumb/msid-71456846,width-1070,height-580,imgsize-1614533,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg)
+
+## 3.Singing🎤🎙
+![Image](https://brexitbritsabroad.com/wp-content/uploads/2018/12/israel-palacio-459693-unsplash-1024x683.jpg) 
+
+## 4.Travelling✈
+![Image](https://www.abc.net.au/cm/rimage/11097260-16x9-xlarge.jpg?v=3)
+
+## 5. Listening to Music🎧
+![Image](https://i.pinimg.com/originals/54/9a/ae/549aae713a6dbd008896f16255da325d.jpg)
+
+## 6. Surfing The Internet💻🖥
+![Image](https://i1.wp.com/www.orseep.com/blog/wp-content/uploads/2015/09/surfing-internet.jpg?fit=1280%2C850)
+
+## 7.Playing PC Games🎮
+![Image](https://www.gamengadgets.com/wp-content/uploads/2019/02/games_PC.jpg)
+
+## Is Programming Hard ?🖥⌨🖱☢
 ### Computer programming languages are not easy to master, but that doesn’t mean they are impossible to learn, either. In a lot of ways, coding is like cooking—both require you to follow a set of instructions with no room for error. It also helps if you understand that the most common state for a programmer, especially a new programmer, is a sense of ineptitude. There is almost a limitless amount of stuff to learn, so programmers constantly need to learn new tools, languages and technologies.
 ![Image](https://cdn.dribbble.com/users/2040619/screenshots/4884525/__________-4___________________1.jpg)
 
