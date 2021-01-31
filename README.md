@@ -7,7 +7,7 @@
  
  Hey I am **_Anurag Yadav_**. I am currently living in **_Ludhiana_** , which is in **_Punjab_** state.
  ![Image](https://smartcity.eletsonline.com/wp-content/uploads/2018/06/hqdefault.jpg)
- * I'm 18 Years old.
+ * I'm 19 Years old.
  * My birthday is on 25 October
 * I have completed my **_Higher Senior Secondary Schoooling_** in **_Non-Medical(Science)_**.
 
